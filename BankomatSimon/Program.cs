@@ -7,7 +7,9 @@ namespace BankomatSimon
         static void Main(string[] args)
         {
 
-            
+
+            string bombom = "amanda";
+
             string CorrectCode = "1337";
             Console.WriteLine("Welcome to the Atm");
             while (true) 
