@@ -13,7 +13,7 @@ namespace BankomatSimon
         private string Password;
         public decimal Balance { get; set; }
 
-
+        //Här skapas kraven som en user måste ha. 
         public User(string name, string password, decimal balance)
         {
 
@@ -21,6 +21,8 @@ namespace BankomatSimon
             Password = password;
             Balance = balance;
         }
+
+        //Här kollas om användaren skriver in rätt lösenord.
         public bool CheckPassword(string inputPassword) 
         {
             if (inputPassword == Password)

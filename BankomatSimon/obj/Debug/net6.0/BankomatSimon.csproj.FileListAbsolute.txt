@@ -13,3 +13,17 @@ C:\Users\banan\source\repos\BankomatSimon\obj\Debug\net6.0\refint\BankomatSimon.
 C:\Users\banan\source\repos\BankomatSimon\obj\Debug\net6.0\BankomatSimon.pdb
 C:\Users\banan\source\repos\BankomatSimon\obj\Debug\net6.0\BankomatSimon.genruntimeconfig.cache
 C:\Users\banan\source\repos\BankomatSimon\obj\Debug\net6.0\ref\BankomatSimon.dll
+C:\Users\Simon\Source\Repos\BankomatSimon\BankomatSimon\obj\Debug\net6.0\BankomatSimon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\Source\Repos\BankomatSimon\BankomatSimon\obj\Debug\net6.0\BankomatSimon.AssemblyInfoInputs.cache
+C:\Users\Simon\Source\Repos\BankomatSimon\BankomatSimon\obj\Debug\net6.0\BankomatSimon.AssemblyInfo.cs
+C:\Users\Simon\Source\Repos\BankomatSimon\BankomatSimon\obj\Debug\net6.0\BankomatSimon.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Source\Repos\BankomatSimon\BankomatSimon\obj\Debug\net6.0\BankomatSimon.dll
+C:\Users\Simon\Source\Repos\BankomatSimon\BankomatSimon\obj\Debug\net6.0\refint\BankomatSimon.dll
+C:\Users\Simon\Source\Repos\BankomatSimon\BankomatSimon\obj\Debug\net6.0\BankomatSimon.pdb
+C:\Users\Simon\Source\Repos\BankomatSimon\BankomatSimon\bin\Debug\net6.0\BankomatSimon.exe
+C:\Users\Simon\Source\Repos\BankomatSimon\BankomatSimon\bin\Debug\net6.0\BankomatSimon.deps.json
+C:\Users\Simon\Source\Repos\BankomatSimon\BankomatSimon\bin\Debug\net6.0\BankomatSimon.runtimeconfig.json
+C:\Users\Simon\Source\Repos\BankomatSimon\BankomatSimon\bin\Debug\net6.0\BankomatSimon.dll
+C:\Users\Simon\Source\Repos\BankomatSimon\BankomatSimon\bin\Debug\net6.0\BankomatSimon.pdb
+C:\Users\Simon\Source\Repos\BankomatSimon\BankomatSimon\obj\Debug\net6.0\BankomatSimon.genruntimeconfig.cache
+C:\Users\Simon\Source\Repos\BankomatSimon\BankomatSimon\obj\Debug\net6.0\ref\BankomatSimon.dll
